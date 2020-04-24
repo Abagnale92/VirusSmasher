@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 76b3aa3323ff108448925d52694bac95
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Boardgamers
+  fontNames:
+  - Boardgamers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: feb0b7ec3e17eb94a93ed0ef4a560941, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
